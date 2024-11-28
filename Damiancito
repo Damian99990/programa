@@ -1,0 +1,13 @@
+[
+ {
+ "run": "21616227-7",
+ "nombre": "Damian",
+ "apellido": "Bustamante",
+ "direccion": "Inacap",
+ "fono": 971768012,
+ "correo":"damian.bustamante02@inacapmail.cl",
+ "montoCredito": 500000,
+ "deuda":2000,
+ "tipo": 3
+ }
+]
